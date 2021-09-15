@@ -1,3 +1,2 @@
-# maven-project based on Hello World Project
-
+# maven-project by siddhartha from ATT
 Simple Maven Project
